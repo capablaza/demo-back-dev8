@@ -41,7 +41,7 @@ public class CreditConsumerTest {
 
         //assert
         //check evaluation that's correct
-        assertThat(answer).isFalse();
+        assertThat(answer).isTrue();
     }
 /*
     @Test
